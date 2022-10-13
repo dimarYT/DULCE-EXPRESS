@@ -1,0 +1,68 @@
+body{
+    background-color: #E9CD60;
+}
+
+.nom{
+    text-decoration: none;
+    color: black;
+}
+
+
+h1{
+    margin: 0%;
+    border: 0ch;
+    text-align: center;
+}
+
+.titulo{
+    width: 40rem;
+    
+
+}
+.barra{
+    background: lightyellow;
+}
+
+.piepagina{
+    background: sandybrown;
+}
+
+.vacio{
+    width: 100px;
+}
+
+.boton{
+    width: 10%;
+}
+
+.espacio{
+    width: 15%;
+}
+
+.pedido{
+    border-bottom: 10px;
+}
+
+.btn{
+    display: inline-block;
+    padding:    .75em 2em;
+    background: darkorange;
+    color: grey;
+    border-radius: .25em;
+}
+
+.derechos{
+    text-align: center;
+    background-color:peachpuff ;
+
+}
+
+
+.nave{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.espaciobarra{
+    width: 10%;
+}
